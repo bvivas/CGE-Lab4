@@ -1,5 +1,5 @@
 # CGE-Lab4
-Laboratorio 4 de Computación a Gran Escala - Máster Universitario en Ingeniería Informática UAM-EPS.
+Laboratorio 4 de Computación a Gran Escala - Máster Universitario en Ingeniería Informática, EPS-UAM.
 
 En esta práctica se realizan dos ejercicios (de forma práctica y teórica) relacionados con los errores numéricos:
 1. El error en la suma de los términos de la serie infinita.
