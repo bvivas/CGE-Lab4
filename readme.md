@@ -14,7 +14,7 @@ En esta práctica se realizan dos ejercicios (de forma práctica y teórica) rel
 ## Estructura del Proyecto
 - `/exercise_1`: directorio que contiene el código fuente del problema de la suma infinita y los resultados de los experimentos realizados (gráficas).
 - `/exercise_2`: directorio que contiene el código fuente del problema de la expresión cuadrática.
-- `CGE_Lab4_Miguel_Belen_MUII.pdf`: fichero con los resultados y conclusiones teóricas y prácticas de la práctica.
+- `CGE_Lab4_Miguel_Belen_MUII.pdf`: fichero con los resultados y conclusiones teóricas y prácticas del proyecto.
 
 ## Instalación y Ejecución
 
